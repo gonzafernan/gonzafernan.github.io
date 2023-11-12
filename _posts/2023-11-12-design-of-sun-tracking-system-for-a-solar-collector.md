@@ -10,6 +10,6 @@ tags: [robotics, automation]
 <center> 
     <object data="/assets/pdf/design_sun_tracking_system.pdf"
             width="100%"
-            height="500"> 
+            height="700"> 
     </object> 
 </center>
