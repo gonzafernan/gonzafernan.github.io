@@ -21,6 +21,9 @@ forces on the vehicle.
 ![](/assets/img/reference_lqr.gif)
 
 ## Report
+
+Link to PDF: [Optimal LQG controller design for self-balancing two-wheeled vehicle stabilization](https://github.com/gonzafernan/gonzafernan.github.io/blob/main/assets/pdf/self_balancing_lqg_control.pdf)
+
 <center> 
     <object data="/assets/pdf/self_balancing_lqg_control.pdf"
             width="100%"

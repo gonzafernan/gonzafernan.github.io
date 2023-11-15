@@ -3,9 +3,11 @@ layout: post
 title: Design of sun-tracking system for a solar collector
 date: 2023-11-12 01:17 -0300
 author: gfernandez
-categories: [Projects]
+categories: [Projects, Research]
 tags: [robotics, automation]
 ---
+
+**Github repository:** [FrancoPalau/Computer-Vision-Solar-Sensor](https://github.com/FrancoPalau/Computer-Vision-Solar-Sensor)
 
 <center> 
     <object data="/assets/pdf/design_sun_tracking_system.pdf"
