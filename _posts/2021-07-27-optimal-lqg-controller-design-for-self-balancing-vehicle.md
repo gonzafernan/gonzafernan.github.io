@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optimal LQG controller design for self-balancing vehicle
-date: 2023-11-12 18:14 -0300
+date: 2021-07-27 18:14 -0300
 author: gfernandez
 categories: [Projects]
 tags: [robotics, control, matlab]
@@ -16,9 +16,14 @@ stabilization and tracking of translation setpoints.
 Controller performance analysis for initial angles different from 0 and thrust 
 forces on the vehicle.
 
-**Github repository:** [gonzafernan/self-balencing-lqg](https://github.com/gonzafernan/self-balancing-lqg)
+- **Github repository:** [gonzafernan/self-balencing-lqg](https://github.com/gonzafernan/self-balancing-lqg)
+- **Technologies:** Matlab/Simulink.
 
 ![](/assets/img/reference_lqr.gif)
+
+## XIX Work Meeting on Information Processing and Control (RPIC)
+
+{% include embed/youtube.html id='03BDdzO6KVY' %}
 
 ## Report
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FreeRTOS on EDU-CIAA development board
-date: 2023-11-14 23:00 -0300
+date: 2020-09-25 23:00 -0300
 author: gfernandez
 categories: [Projects]
 tags: [embedded-systems, freertos, c]
@@ -13,6 +13,8 @@ Design and implementation of an embedded system for the control of a basic elect
 **Github repository:** [gonzafernan/educiaa-freertos](https://github.com/gonzafernan/educiaa-freertos)
 
 **Programming language:** C
+
+{% include embed/youtube.html id='qf9fvp37Dms' %}
 
 ## Report
 Link to PDF: [RTOS on EDU-CIAA development board for the control of an control of a basic electromechanical actuator](https://github.com/gonzafernan/educiaa-freertos/blob/master/docs/informe/main.pdf)
