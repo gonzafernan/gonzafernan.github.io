@@ -17,6 +17,10 @@ We also discuss the mechanical design and manufacturing of the robot, which had 
 
 As a result of this work, a general purpose robotic cell is obtained. Thanks to this, the students have a structure where they can apply concepts of mechanics, control, computer vision, electronics, microcontrollers, robotics, and more. In addition, they have the study and mathematical analysis carried out on the proposed robot, which has as its main feature to be of parallel configuration.
 
+## Kinematic simulation with CoppeliaSim
+
+{% include embed/youtube.html id='KIhCCrhXdcE' %}
+
 ## Report
 
 Link to PDF: [Development of dual SCARA parallel robot: design, manufacturing, simulation, control and experimentation](https://github.com/gonzafernan/gonzafernan.github.io/tree/main/assets/pdf/pfe-report-avanzini_fernandez_pino.pdf)
