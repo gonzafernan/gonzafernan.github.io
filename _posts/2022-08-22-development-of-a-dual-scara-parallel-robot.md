@@ -21,6 +21,10 @@ As a result of this work, a general purpose robotic cell is obtained. Thanks to 
 
 {% include embed/youtube.html id='KIhCCrhXdcE' %}
 
+## Mechanical design
+
+![](/assets/img/dual_scara-main-drw.png)
+
 ## Report
 
 Link to PDF: [Development of dual SCARA parallel robot: design, manufacturing, simulation, control and experimentation](https://github.com/gonzafernan/gonzafernan.github.io/tree/main/assets/pdf/pfe-report-avanzini_fernandez_pino.pdf)
